@@ -1,5 +1,4 @@
-//Hardcode some data for movies and directors
-let movies = [
+const movies = [
   {
     id: 1,
     name: "Movie 1",
@@ -20,7 +19,7 @@ let movies = [
   }
 ];
 
-let directors = [
+const directors = [
   {
     id: 1,
     name: "Director 1",
